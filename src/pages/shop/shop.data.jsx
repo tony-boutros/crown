@@ -1,3 +1,5 @@
+
+
 const SHOP_DATA = [
     {
       id: 1,
@@ -67,13 +69,13 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Adidas NMD',
+          name: 'Cedars',
           imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
           price: 220
         },
         {
           id: 2,
-          name: 'Adidas Yeezy',
+          name: 'Marlboro',
           imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
           price: 280
         },

@@ -2,9 +2,22 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     padding: 20px 80px;
+    height: 100vh;
   }
-  
+  .title {
+    font-size: 48px;
+    color: #c47c5a;
+    text-align: center;
+  }
+  .button{
+    text-align: center;
+    padding: 10px 20px;
+    border: 1px solid #c47c5a;
+    margin-top: 30px;
+  }
+  .wrap{display: flex;align-items: center;flex-direction: column;}
   .directory-menu {
     width: 100%;
     display: flex;
