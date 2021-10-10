@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/crown/static/css/main.fb338694.chunk.css",
-    "main.js": "/crown/static/js/main.e658ede7.chunk.js",
-    "main.js.map": "/crown/static/js/main.e658ede7.chunk.js.map",
-    "runtime-main.js": "/crown/static/js/runtime-main.a44ad980.js",
-    "runtime-main.js.map": "/crown/static/js/runtime-main.a44ad980.js.map",
-    "static/js/2.e87cd350.chunk.js": "/crown/static/js/2.e87cd350.chunk.js",
-    "static/js/2.e87cd350.chunk.js.map": "/crown/static/js/2.e87cd350.chunk.js.map",
-    "index.html": "/crown/index.html",
-    "service-worker.js": "/crown/service-worker.js",
-    "service-worker.js.map": "/crown/service-worker.js.map",
-    "static/css/main.fb338694.chunk.css.map": "/crown/static/css/main.fb338694.chunk.css.map",
-    "static/js/2.e87cd350.chunk.js.LICENSE.txt": "/crown/static/js/2.e87cd350.chunk.js.LICENSE.txt"
+    "main.css": "/massoud/static/css/main.fb338694.chunk.css",
+    "main.js": "/massoud/static/js/main.e658ede7.chunk.js",
+    "main.js.map": "/massoud/static/js/main.e658ede7.chunk.js.map",
+    "runtime-main.js": "/massoud/static/js/runtime-main.817d1cb5.js",
+    "runtime-main.js.map": "/massoud/static/js/runtime-main.817d1cb5.js.map",
+    "static/js/2.e87cd350.chunk.js": "/massoud/static/js/2.e87cd350.chunk.js",
+    "static/js/2.e87cd350.chunk.js.map": "/massoud/static/js/2.e87cd350.chunk.js.map",
+    "index.html": "/massoud/index.html",
+    "service-worker.js": "/massoud/service-worker.js",
+    "service-worker.js.map": "/massoud/service-worker.js.map",
+    "static/css/main.fb338694.chunk.css.map": "/massoud/static/css/main.fb338694.chunk.css.map",
+    "static/js/2.e87cd350.chunk.js.LICENSE.txt": "/massoud/static/js/2.e87cd350.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a44ad980.js",
+    "static/js/runtime-main.817d1cb5.js",
     "static/js/2.e87cd350.chunk.js",
     "static/css/main.fb338694.chunk.css",
     "static/js/main.e658ede7.chunk.js"
